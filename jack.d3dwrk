@@ -1,0 +1,46 @@
+{
+    "workspace_views": {
+        "283258f0-37a9-4dd2-bea9-920b45d5596b": {
+            "cam_distance": 170.85934448242188,
+            "cam_quat": [
+                -0.3068968951702118,
+                -0.2398754507303238,
+                -0.36654767394065857,
+                -0.8449360728263855
+            ],
+            "center": [
+                7.771127700805664,
+                40.821685791015625,
+                5.316298007965088
+            ],
+            "document": {
+                "body_views": {},
+                "current_group": "9664a544-b7ad-47bb-a9de-a62afac041b2",
+                "entity_views": {},
+                "group_views": {
+                    "0742e6fc-d9e7-4aed-903d-5fabcc20e5fa": {
+                        "visible": false
+                    },
+                    "434ae505-0646-4e5f-a695-382b5d56c3f0": {
+                        "visible": false
+                    },
+                    "9132a1e0-d1e3-4ce1-b50b-43ae7bbbabac": {
+                        "visible": false
+                    },
+                    "a4b9506f-7d4c-4cda-9c53-64120b1fd248": {
+                        "visible": false
+                    },
+                    "ad173859-f255-4a6a-80bc-01c802f8f8b1": {
+                        "visible": true
+                    },
+                    "d5fb0fb2-c662-4134-9f38-51f82344f01a": {
+                        "visible": false
+                    }
+                },
+                "show_construction_entities_from_previous_groups": false
+            },
+            "name": "",
+            "projection": "persp"
+        }
+    }
+}
