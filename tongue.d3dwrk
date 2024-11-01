@@ -1,0 +1,52 @@
+{
+    "workspace_views": {
+        "70b47d51-46cb-4f46-995d-614d8f92245c": {
+            "cam_distance": 33.75027847290039,
+            "cam_quat": [
+                -0.16801539063453674,
+                -0.5737775564193726,
+                -0.2489064633846283,
+                -0.7619684338569641
+            ],
+            "center": [
+                -15.62903118133545,
+                11.103911399841309,
+                0.5210223197937012
+            ],
+            "document": {
+                "body_views": {},
+                "current_group": "2aa2d346-4cd2-402a-886d-de64604517ea",
+                "entity_views": {},
+                "group_views": {
+                    "5cfadc0f-590d-4068-9e91-f6dd1b3ecc55": {
+                        "visible": false
+                    },
+                    "75d62300-8b9a-44b3-a53b-2a906358dcc2": {
+                        "visible": false
+                    },
+                    "958cd3ad-be2f-405b-8182-8ac52234ec2a": {
+                        "visible": false
+                    },
+                    "ae401a9d-80e0-49e9-a266-c04091f3e599": {
+                        "visible": false
+                    },
+                    "b6720c59-d449-4bb5-a886-14078be16842": {
+                        "visible": false
+                    },
+                    "ee132be6-1bfa-45c8-a186-2d29cc286856": {
+                        "visible": false
+                    },
+                    "efe02a1c-29e3-4b1b-8786-362af507c63b": {
+                        "visible": false
+                    },
+                    "fafc4e6a-78cc-4b0f-b401-ba7720ac1c0d": {
+                        "visible": false
+                    }
+                },
+                "show_construction_entities_from_previous_groups": false
+            },
+            "name": "",
+            "projection": "persp"
+        }
+    }
+}
