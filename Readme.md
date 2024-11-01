@@ -19,6 +19,25 @@ The MCAD used is https://dune3d.org/ which is an opensource parametric 3D CAD. Y
 
 If you do not want to modify the part itself, step files are provided.
 
+Further parts and dimensions
+============================
+
+For assembly of jack and tongue you will also need:
+
+On the tongue:
+
+ - delrin quill, e.g. https://www.vogel-scheer.de/de/mechanik/1-3-plektra/delrin-plektra-vorintoniert.html
+ - approx 18mm of 0.5mm dia spring steel wire
+
+On the jack:
+ - a 100mm diameter lead weight
+ - a 10mm M2 screw with excentric head for regulating the quills distance to the string
+ - 50mm of M2 threaded rod and 2 M2 nuts
+
+For connecting both:
+
+ - 15mm of 1mm dia steel wire as an axle
+
 License
 =======
 
