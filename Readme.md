@@ -30,7 +30,7 @@ On the tongue:
  - approx 18mm of 0.5mm dia spring steel wire
 
 On the jack:
- - a 100mm diameter lead weight
+ - a 10mm diameter lead weight
  - a 10mm M2 screw with excentric head for regulating the quills distance to the string
  - 50mm of M2 threaded rod and 2 M2 nuts
 
